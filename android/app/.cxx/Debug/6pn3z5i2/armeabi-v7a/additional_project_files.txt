@@ -1,0 +1,7 @@
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/RNScriptManagerSpec-generated.cpp.o
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ComponentDescriptors.cpp.o
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/EventEmitters.cpp.o
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/Props.cpp.o
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/RNScriptManagerSpecJSI-generated.cpp.o
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ShadowNodes.cpp.o
+/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/States.cpp.o

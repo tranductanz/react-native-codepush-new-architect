@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNScriptManagerSpec_autolinked_build",
+		"source" : "/Users/trantanz/Desktop/TestApp/node_modules/@callstack/repack/android/build/generated/source/codegen/jni"
+	}
+}

@@ -1,0 +1,1 @@
+/Users/trantanz/Desktop/TestApp/android/app/build/intermediates/cxx/Debug/6pn3z5i2/obj/arm64-v8a

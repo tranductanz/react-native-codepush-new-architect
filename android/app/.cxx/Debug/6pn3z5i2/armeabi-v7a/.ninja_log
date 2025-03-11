@@ -1,0 +1,14 @@
+# ninja log v5
+1	13	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/CMakeFiles/cmake.verify_globs	33f3343f37011ee3
+7	2746	1741659614766072630	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/States.cpp.o	564d92f52162466b
+3	2859	1741659614880222132	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/EventEmitters.cpp.o	1312e15a53ad8986
+4	3155	1741659615169360624	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/Props.cpp.o	4383251ac762b9e2
+4	3314	1741659615333797902	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/RNScriptManagerSpecJSI-generated.cpp.o	227fa59012e254b1
+5	3360	1741659615378666864	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ShadowNodes.cpp.o	618653fad0f4ac88
+0	3366	1741659615384605259	CMakeFiles/appmodules.dir/OnLoad.cpp.o	b6fa0c44b49f2cb5
+1	3461	1741659615480313953	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/RNScriptManagerSpec-generated.cpp.o	3449866652f8414f
+2	3511	1741659615530017107	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ComponentDescriptors.cpp.o	5cdb8547ef39093c
+0	3535	1741659615553641231	CMakeFiles/appmodules.dir/Users/trantanz/Desktop/TestApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	6d80a0ab445f3e51
+3535	3658	1741659615680087742	/Users/trantanz/Desktop/TestApp/android/app/build/intermediates/cxx/Debug/6pn3z5i2/obj/armeabi-v7a/libappmodules.so	887de138b76231f9
+0	18	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/CMakeFiles/cmake.verify_globs	33f3343f37011ee3
+1	16	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/armeabi-v7a/CMakeFiles/cmake.verify_globs	33f3343f37011ee3

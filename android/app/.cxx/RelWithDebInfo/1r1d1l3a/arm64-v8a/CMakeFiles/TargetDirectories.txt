@@ -1,0 +1,6 @@
+/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/arm64-v8a/CMakeFiles/appmodules.dir
+/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/arm64-v8a/RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir
+/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/arm64-v8a/RNScriptManagerSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/arm64-v8a/RNScriptManagerSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

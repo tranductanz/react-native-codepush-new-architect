@@ -1,0 +1,16 @@
+# ninja log v5
+5708	5866	1741659555645271562	/Users/trantanz/Desktop/TestApp/android/app/build/intermediates/cxx/Debug/6pn3z5i2/obj/arm64-v8a/libappmodules.so	c04aff51f8d553a1
+8	4671	1741659554448871788	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/EventEmitters.cpp.o	9dff894c1de011c4
+15	5708	1741659555486187664	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cf28da7f3b83dec5
+6	4976	1741659554749260491	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ShadowNodes.cpp.o	60d825daa1f4c1dc
+16	5484	1741659555261158145	CMakeFiles/appmodules.dir/Users/trantanz/Desktop/TestApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8269f7c4c118c2b4
+8	4606	1741659554366727089	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/Props.cpp.o	4ab8bbc927d37733
+9	5460	1741659555235379406	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ComponentDescriptors.cpp.o	46007bc87ea94a5c
+0	4361	1741659554130876102	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/States.cpp.o	986f4955ea7d986e
+8	5184	1741659554951087171	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/RNScriptManagerSpecJSI-generated.cpp.o	8c986d6595ca642
+50	167	1741659611865106829	build.ninja	eb997f8ae4c16092
+13	5189	1741659554952040936	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/RNScriptManagerSpec-generated.cpp.o	9617a6c2f2609ff9
+1	25	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/arm64-v8a/CMakeFiles/cmake.verify_globs	b9f733abd6a2b7
+0	15	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/arm64-v8a/CMakeFiles/cmake.verify_globs	b9f733abd6a2b7
+0	31	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/arm64-v8a/CMakeFiles/cmake.verify_globs	b9f733abd6a2b7
+0	39	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/arm64-v8a/CMakeFiles/cmake.verify_globs	b9f733abd6a2b7

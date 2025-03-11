@@ -1,0 +1,12 @@
+# ninja log v5
+0	21	0	/Users/trantanz/desktop/TestApp/android/app/.cxx/RelWithDebInfo/1r1d1l3a/x86_64/CMakeFiles/cmake.verify_globs	616b5b9bbd955fcf
+23	4124	1741659877455685136	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/States.cpp.o	c268bf0514066382
+9	4432	1741659877770323948	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/EventEmitters.cpp.o	51dd14f858109332
+12	4826	1741659878163455921	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/Props.cpp.o	b0fc7d9b6376bc46
+20	4965	1741659878302265076	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ShadowNodes.cpp.o	bdfd9790af6b495d
+6	4990	1741659878325009693	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ComponentDescriptors.cpp.o	9b61267a8dfd945e
+3	5070	1741659878406772014	CMakeFiles/appmodules.dir/Users/trantanz/desktop/TestApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	83eb3ceb0724d76c
+16	5136	1741659878472321079	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/RNScriptManagerSpecJSI-generated.cpp.o	f8618f03c49899b4
+1	5243	1741659878581201842	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3545a44cadff8676
+4	5289	1741659878627554990	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/RNScriptManagerSpec-generated.cpp.o	32e9a32e79e9ece2
+5289	5354	1741659878695264092	/Users/trantanz/desktop/TestApp/android/app/build/intermediates/cxx/RelWithDebInfo/1r1d1l3a/obj/x86_64/libappmodules.so	e83ee940c9531735

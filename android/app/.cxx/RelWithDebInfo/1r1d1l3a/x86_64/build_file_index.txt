@@ -1,0 +1,2 @@
+/Users/trantanz/desktop/TestApp/node_modules/@callstack/repack/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/trantanz/desktop/TestApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

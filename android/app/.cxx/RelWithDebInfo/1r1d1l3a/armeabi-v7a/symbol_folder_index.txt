@@ -1,0 +1,1 @@
+/Users/trantanz/Desktop/TestApp/android/app/build/intermediates/cxx/RelWithDebInfo/1r1d1l3a/obj/armeabi-v7a

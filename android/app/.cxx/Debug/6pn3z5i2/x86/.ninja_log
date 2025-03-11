@@ -1,0 +1,13 @@
+# ninja log v5
+1	13	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/x86/CMakeFiles/cmake.verify_globs	3e0b7220baa5125e
+20	2976	1741659675813503918	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/States.cpp.o	25112acd0be05b21
+8	3188	1741659676037913004	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/EventEmitters.cpp.o	8659b6c85b6322de
+11	3366	1741659676215942401	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/Props.cpp.o	685ffd2c57d80f95
+15	3500	1741659676361694412	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/RNScriptManagerSpecJSI-generated.cpp.o	b2507c71d7c667de
+3	3548	1741659676409367056	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/RNScriptManagerSpec-generated.cpp.o	1d6fc12e3e5daf2e
+17	3615	1741659676478905485	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ShadowNodes.cpp.o	81a73a161f598d14
+2	3669	1741659676531077537	CMakeFiles/appmodules.dir/Users/trantanz/Desktop/TestApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	a45dfc282438acb5
+0	3821	1741659676682189661	CMakeFiles/appmodules.dir/OnLoad.cpp.o	98ee925d87dff2f2
+6	3825	1741659676685903153	RNScriptManagerSpec_autolinked_build/CMakeFiles/react_codegen_RNScriptManagerSpec.dir/react/renderer/components/RNScriptManagerSpec/ComponentDescriptors.cpp.o	c1cf89fecf243f47
+3825	3963	1741659676823141724	/Users/trantanz/Desktop/TestApp/android/app/build/intermediates/cxx/Debug/6pn3z5i2/obj/x86/libappmodules.so	4aecedf661a3aeeb
+1	11	0	/Users/trantanz/Desktop/TestApp/android/app/.cxx/Debug/6pn3z5i2/x86/CMakeFiles/cmake.verify_globs	3e0b7220baa5125e
